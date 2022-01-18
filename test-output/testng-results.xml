@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="3" total="6" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="90985" started-at="2022-01-19T00:54:58 IST" finished-at="2022-01-19T00:56:29 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="90985" started-at="2022-01-19T00:54:58 IST" finished-at="2022-01-19T00:56:29 IST">
+      <class name="elearning.elearning">
+        <test-method status="PASS" signature="BT()[pri:0, instance:elearning.elearning@113b13f]" name="BT" is-config="true" duration-ms="7918" started-at="2022-01-19T00:54:58 IST" finished-at="2022-01-19T00:55:06 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BT -->
+        <test-method status="PASS" signature="login()[pri:0, instance:elearning.elearning@113b13f]" name="login" duration-ms="5943" started-at="2022-01-19T00:55:06 IST" finished-at="2022-01-19T00:55:12 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="skills()[pri:2, instance:elearning.elearning@113b13f]" name="skills" duration-ms="66833" started-at="2022-01-19T00:55:12 IST" finished-at="2022-01-19T00:56:19 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- skills -->
+        <test-method status="PASS" signature="logout()[pri:3, instance:elearning.elearning@113b13f]" name="logout" duration-ms="7034" started-at="2022-01-19T00:56:19 IST" finished-at="2022-01-19T00:56:26 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method status="PASS" signature="AT()[pri:0, instance:elearning.elearning@113b13f]" name="AT" is-config="true" duration-ms="3207" started-at="2022-01-19T00:56:26 IST" finished-at="2022-01-19T00:56:29 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AT -->
+      </class> <!-- elearning.elearning -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
